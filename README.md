@@ -23,6 +23,7 @@ adbc :duckdb — 100 rows/insert, 5000 iterations
     0 |    43.8 |           138.0 |     0.1
   500 |    44.0 |           214.0 |    76.1
  1000 |    44.7 |           294.8 |   156.9
+```
 
 CSV summary output in priv/results
 
